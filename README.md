@@ -3,5 +3,6 @@ Just a simple library to control MBS74T1AEF rf modulator chip found in old satel
 # Usage
 This library was made for cosmic compiler, so you can just directly paste source and header files into your project folder src and inc.
 # External references
-https://www.onetransistor.eu/2018/01/i2c-analog-tv-modulator-arduino-lcd.html - Basically inspiration and arduino code for this project
-https://vrtp.ru/index.php?act=categories&CODE=article&article=3667 - Guide in russian to get even stronger output from the modulator
+- https://www.onetransistor.eu/2018/01/i2c-analog-tv-modulator-arduino-lcd.html - Basically inspiration and arduino code for this project
+- https://vrtp.ru/index.php?act=categories&CODE=article&article=3667 - Guide in russian to get even stronger output from the modulator
+- https://www.elektromys.eu/knihovny.php - Libraries for STM8, not only for I2C
